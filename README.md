@@ -2,11 +2,11 @@
 
 ># 蓝奏云网盘统一密码：`OJBK`
 
->## 更新日志 ：[点击查看](https://www.yuque.com/docs/share/3116557d-20f4-41c3-871e-1916bf9fb64c) 请我喝瓶可乐支持一下：[打赏](https://www.yuque.com/docs/share/77e2d958-c82f-4b6b-bceb-14313c60f4ec) T.G电报频道：[OJBK2333](http://t.me/OJBK2333)
+>## 更新合集 ：[点击查看](https://flowery-espadrille-695.notion.site/7e52fb27108d4b7099aa6245a4d1d9eb) 请我喝瓶可乐支持一下：[打赏](https://www.yuque.com/docs/share/77e2d958-c82f-4b6b-bceb-14313c60f4ec) T.G电报频道：[OJBK2333](http://t.me/OJBK2333)
 
 
 
-![20220220142638Aicy775.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684066382-4c6399fe-aa01-4d2a-a16f-0f1676b21219.png)
+![20220220142638Aicy775.png](img/20220220142638Aicy775.png)
 
 ###  【MAGISK】面具稳定版
 
@@ -16,9 +16,8 @@
 
 面具管理器： [点击查看](https://nalankang.lanzouo.com/b00u7gcij)
 
-### 【MAGISK】面具金丝雀版(Canary)
 
-稳定版发布前的测试版本
+### 【MAGISK】面具金丝雀版(Canary)
 
 卡刷包和管理器版本号最好一致，以免出现不必要的问题。
 
@@ -27,6 +26,7 @@
 金丝雀版卡刷包：[点击查看](https://nalankang.lanzouo.com/b00v2ob6f)
 
 Shamiko(隐藏MagiskHide)：[点击查看](https://nalankang.lanzouo.com/b00v9d09i)
+
 
 ### 【MAGISK】面具阿尔法版(alpha)
 
@@ -40,9 +40,25 @@ Shamiko(隐藏MagiskHide)：[点击查看](https://nalankang.lanzouo.com/b00v9d0
 
 Shamiko(隐藏MagiskHide)：[点击查看](https://nalankang.lanzouo.com/b00v9d09i)
 
+
+### 【MAGISK】面具管理器德尔塔版(Delta)
+
+作者：magisk分支由HUSKYDG大神制作
+
+内置救砖保护、核心模式开关、多开应用hide、未加密F2FS优化、模块挂载增强
+
+卡刷包和管理器版本号最好一致，以免出现不必要的问题。
+
+德尔塔版管理器：[点击查看](https://nalankang.lanzoum.com/b00w6mtza)
+
+德尔塔版卡刷包：[点击查看](https://nalankang.lanzoum.com/b00w6mwle)
+
+
 ### 【MAGISK】面具lite版
 
 发布之初只作为root管理器，不提供对模块的支持。不过后面的版本作者又恢复了模块支持，白名单模式的Magisk，所有应用程序默认隐藏，只有勾选的应用程序才能获得超级用户权限
+
+卡刷包和管理器版本号最好一致，以免出现不必要的问题。
 
 lite版面具管理器：[点击查看](https://nalankang.lanzouo.com/b00v8k94d)
 
@@ -56,7 +72,7 @@ lite版面具卡刷包：[点击查看](https://nalankang.lanzouo.com/b00v8kaje)
 
 
 
-![2022-02-02_14-27-30776778.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684095580-70dde6dd-63db-4d91-bd90-c61db0369dd0.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
+![2022-02-02_14-27-30776778.png](img/2022-02-02_14-27-30776778.png)
 
 ### 【LSPOSED】框架-(安卓8.1-12)
 
@@ -70,7 +86,7 @@ LSPosed测试版： [点击查看](https://nalankang.lanzouo.com/b00u7rzoj)
 
 
 
-![IMG_20220220_144538780.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684125246-56d97448-16de-4e64-bd0e-27f6f51c2080.png)
+![IMG_20220220_144538780.png](img/IMG_20220220_144538780.png)
 
 ### 【EDXPOSED】框架-(安卓8.0-11)
 
@@ -90,7 +106,7 @@ Edxposed金丝雀(S版和Y版)： [点击查看](https://nalankang.lanzouo.com/b
 
 
 
-![IMG_20220220_150153781783.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684150054-452fb424-76a1-4b97-ad97-5a2d709448f4.png)
+![IMG_20220220_150153781783.png](img/IMG_20220220_150153781783.png)
 
 ### 【DREAMLAND】梦境框架-(安卓7.0-12)
 
@@ -102,7 +118,7 @@ magisk-dreamland：[点击查看](https://nalankang.lanzouo.com/b00uicrad)
 
 
 
-![IMG_20220220_152839785.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684168058-e9ebdd55-0eb7-4d71-8782-67caca3fb79c.png)
+![IMG_20220220_152839785.png](img/IMG_20220220_152839785.png)
 
 ### 免【ROOT】XPOSED框架
 
@@ -124,9 +140,15 @@ SlimVXP：[点击查看](https://www.coolapk.com/apk/io.virtualapp.sandvxposed)
 
 BlackBox黑盒：[点击查看](https://nalankang.lanzouo.com/b00vkf9ub)
 
+LSPatch稳定版：[点击查看](https://nalankang.lanzouo.com/b00vvd25i)
+
+LSPatch测试版：[点击查看](https://nalankang.lanzouo.com/b00vvd26j)
+
+X开：[点击查看](https://nalankang.lanzouo.com/b00vvyaxa)
 
 
-![IMG_20220220_161114788.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645684205009-036b842b-a1c5-4b01-8f3e-e8ae337c2786.png)
+
+![IMG_20220220_161114788.png](img/IMG_20220220_161114788.png)
 
 ### 【XP模块】 抖音模块
 
@@ -148,9 +170,15 @@ HookBox：[点击查看](https://nalankang.lanzouo.com/b00uembsb)
 
 小鸽子(视频无水印下载)：[点击查看](https://nalankang.lanzouo.com/b00vs6o1g)
 
+Destiny(原LanFeng)：[点击查看](https://nalankang.lanzouo.com/b00vz18ef)
+
+逗音小能手：[点击查看](https://nalankang.lanzoum.com/b00w5xqqd)
+
+VodkaMod：[点击查看](https://nalankang.lanzoum.com/b00w9rwcd)
 
 
-![IMG_20220220_162211790.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645685134600-d6f02fdc-90d4-4bfd-ac43-1b085d8cf2eb.png)
+
+![IMG_20220220_162211790.png](img/IMG_20220220_162211790.png)
 
 ### 【XP模块】 蚂蚁森林模块
 
@@ -164,6 +192,7 @@ HookBox：[点击查看](https://nalankang.lanzouo.com/b00uembsb)
 
 雨季版：[点击查看](https://nalankang.lanzouo.com/b00v77tpa)
 
+
 ### 【XP模块】隐藏应用列表
 
 该模块提供了一些隐藏方式用于隐藏某些指定的软件从而不被检测到
@@ -175,6 +204,7 @@ Riru-Hide My Applist：[点击查看](https://nalankang.lanzouo.com/b00unry9e)
 应用列表检测器：[点击查看](https://nalankang.lanzouo.com/b00uwpoeb)
 
 隐秘空间：[点击查看](https://nalankang.lanzouo.com/b00vbys7c)
+
 
 ### 【XP模块】 核心破解
 
@@ -190,6 +220,7 @@ Riru-Hide My Applist：[点击查看](https://nalankang.lanzouo.com/b00unry9e)
 
 核心破解1.4(安卓4.x-6.x)： [点击查看](https://nalankang.lanzouo.com/iaKd1jdk6pi)
 
+
 ### 【XP模块】 应用管理模块
 
 应用管理： [点击查看](https://nalankang.lanzouo.com/ibNpugt6sih)
@@ -204,6 +235,16 @@ Thanox(灭霸)： [点击查看](https://nalankang.lanzouo.com/b00ucbm7i)
 
 DeepSleep(控制应用后台唤醒)：[点击查看](https://nalankang.lanzouo.com/b00vsg6vi)
 
+自动墓碑后台：[点击查看](https://nalankang.lanzouo.com/b00vxosna)
+
+NoActive(墓碑)：[点击查看](https://nalankang.lanzouo.com/b00vxorzg)
+
+MiTlite(墓碑模块)：[点击查看](https://nalankang.lanzoum.com/b00vzbpng)
+
+
+
+![DMINI_8aef76ad581e7105.jpg](img/DMINI_8aef76ad581e7105.jpg)
+
 ### 【XP模块】指纹支付模块
 
 xposed版：[点击查看](https://nalankang.lanzouo.com/b00twbp5i)
@@ -212,6 +253,7 @@ xposed版：[点击查看](https://nalankang.lanzouo.com/b00twbp5i)
 
 面具Zygisk版：[点击查看](https://nalankang.lanzouo.com/b00v90psj)
 
+
 ### 【XP模块】取消对话框
 
 对话框取消： [点击查看](https://nalankang.lanzouo.com/iHJzpl4nyuh)
@@ -219,6 +261,12 @@ xposed版：[点击查看](https://nalankang.lanzouo.com/b00twbp5i)
 对话框取消beta版： [点击查看](https://nalankang.lanzouo.com/iX6Cvl4nzjc)
 
 对话框取消修复版：[点击查看](https://nalankang.lanzouo.com/b00vnmxqb)
+
+Dia(对话框取消新版）[点击查看](https://nalankang.lanzoum.com/b00wa5mkf)
+
+
+
+![32ad15b25c69eeee2883.png](img/32ad15b25c69eeee2883.png)
 
 ### 【XP模块】隐私保护模块
 
@@ -229,6 +277,7 @@ X隐私保护： [点击查看](https://nalankang.lanzouo.com/b00uanape)
 XPrivacyLua： [点击查看](https://nalankang.lanzouo.com/b00u9131a)
 
 放开我的剪贴板： [点击查看](https://www.coolapk.com/apk/cn.nlifew.clipmgr)
+
 
 ### 【XP模块】 应用破解模块：可以白嫖部分软件和单机游戏
 
@@ -274,11 +323,45 @@ Fuck VIP(破解部分应用VIP)：[点击查看](https://nalankang.lanzouo.com/b
 
 Fuck光速虚拟机XP模块：[点击查看](https://nalankang.lanzouo.com/b00vta7cf)
 
+JsHook(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00vv5shi)
+
+Vip Kill(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00w27pvi)
+
+UnlockVIP(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00w27q1e)
+
+Hooker(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00w27q2f)
+
+FCHook(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00w3s2ab)
+
+VMOS Pro++(虚拟机破解模块)：[点击查看](https://nalankang.lanzouo.com/b00w3s2ef)
+
+Fuck VMOS Pro(虚拟机破解模块)：[点击查看](https://nalankang.lanzoum.com/b00w5qhde)
+
+Fuck MP3提取转换器：[点击查看](https://nalankang.lanzoum.com/b00w5qiwj)
+
+VIP for Yuki(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00w7tped)
+
+Hook Vip(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wba9mf)
+
+FakeFL(Fake Location模块)：[点击查看](https://nalankang.lanzoum.com/b00wcp60b)
+
+尊享会员服务(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wdbdgb)
+
+VIP模块(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wj7b5a)
+
+MyApp(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wl69mb)
+
+幸运破解器：[点击查看](https://nalankang.lanzoum.com/b00u06nfa)
+
+MyHook(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wo5r4d)
+
+破晓(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wpd4qb)
 
 
-![img](https://cdn.nlark.com/yuque/0/2022/jpeg/28378617/1653780186605-d5548c9e-8095-4231-adf2-1bb6fcd185d3.jpeg?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
 
-酷我音乐模块
+![IMG_20220221_2130196276.png](img/IMG_20220221_2130196276.png)
+
+### 【XP模块】酷我音乐模块
 
 酷我酷狗VIP：[点击查看](https://nalankang.lanzouo.com/b00ujhxza)
 
@@ -288,9 +371,11 @@ Fuck光速虚拟机XP模块：[点击查看](https://nalankang.lanzouo.com/b00vt
 
 酷我增强：[点击查看](https://nalankang.lanzouo.com/b00vnxgqf)
 
+爱酷我：[点击查看](https://nalankang.lanzoum.com/b00wg5cij)
 
 
-![20220220142547Aicy793797.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688562720-600a20f0-a5e3-4389-9c9d-e191cdaa562c.png)
+
+![IMG_20221011_1538532889.png](img/IMG_20221011_1538532889.png)
 
 ### 【XP模块】 微信增强模块合集
 
@@ -332,9 +417,21 @@ QQCleaner Lite(轻量版本的瘦身模块)：[点击查看](https://nalankang.l
 
 QQ瘦身模块(QQ/TIM/微信缓存垃圾清理)：[点击查看](https://nalankang.lanzouo.com/b00tszuzi)
 
+禁用微信签名验证：[点击查看](https://nalankang.lanzouo.com/b00vv5k1e)
+
+飞哥传说(企业微信抢红包)：[点击查看](https://nalankang.lanzoum.com/b00w6ipyb)
+
+企微小打手(接管企业微信定位服务)：[点击查看](https://nalankang.lanzoum.com/b00w7hg4h)
+
+WeChat Pad(开启手机和平板同时登陆入口)：[点击查看](https://nalankang.lanzoum.com/b00w7lwud)
+
+微信群消息助手：[点击查看](https://nalankang.lanzoum.com/b00w9a34j)
+
+微信糊脸：[点击查看](https://nalankang.lanzoum.com/b00wj4cng)
 
 
-![20220220194848Aicy-1798.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688580197-83842c38-780e-4037-a0e3-e2c7a32c9fa5.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
+
+![20220220194848Aicy-1798.png](img/20220220194848Aicy-1798.png)
 
 ### 【XP模块】 QQ增强模块合集
 
@@ -367,6 +464,13 @@ QAuxiliary(增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vc3gh
 QQCleaner Lite(轻量版本的瘦身模块)：[点击查看](https://nalankang.lanzouo.com/b00vrngib)
 
 QTool(QQ增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vlucje)
+
+小彩豆(QQ辅助模块)：[点击查看](https://nalankang.lanzouo.com/b00w5akcf)
+
+QQ复读机：[点击查看](https://nalankang.lanzoum.com/b00u9f1yf)
+
+TL_ing(QQ增强模块)：[点击查看](https://nalankang.lanzoum.com/b00wg5fod)
+
 
 ### 【XP模块】 系统增强模块
 
@@ -428,6 +532,13 @@ SkyOlin助手(分屏)：[点击查看](https://nalankang.lanzouo.com/b00vbffoh)
 
 进程锁：[点击查看](https://nalankang.lanzouo.com/b00vtzfkb)
 
+Force Dark-强制深色模式：[点击查看](https://nalankang.lanzoum.com/b00wj4cjc)
+
+NekoSMS-垃圾短信拦截器：[点击查看](https://nalankang.lanzoum.com/b00wltcpa)
+
+HideZoomWindow(从截图和录屏中隐藏小窗)：[点击查看](https://nalankang.lanzoum.com/b00wmlqtg)
+
+
 ### 【XP模块】伪装设备信息
 
 应用伪装： [点击查看](https://nalankang.lanzouo.com/b00u9amhe)
@@ -442,6 +553,9 @@ Android Faker：[点击查看](https://nalankang.lanzouo.com/b00v88yxa)
 
 设备ID更改器：[点击查看](https://nalankang.lanzouo.com/b00v894xg)
 
+Guise-应用变量：[点击查看](https://nalankang.lanzoum.com/b00wihi9a)
+
+
 ### 【XP模块】 存储重定向
 
 重定向应用程序在sdcard目录下生成的文件夹和文件的路径，防止应用在sdcard目录下乱拉屎
@@ -454,7 +568,7 @@ LT NoLitter重制版： [点击查看](https://nalankang.lanzouo.com/iP7gb03mea1
 
 
 
-![IMG_20220221_153614822.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688605586-8c20ca94-fe9f-4104-9b96-371cc29658d8.png)
+![IMG_20220221_153614822.png](img/IMG_20220221_153614822.png)
 
 ### 【XP模块】 强国助手模块
 
@@ -488,6 +602,10 @@ AI强国：[点击查看](https://nalankang.lanzouo.com/b00v0v3sj)
 
 学习一下强国：[点击查看](https://nalankang.lanzouo.com/b00vg2urc)
 
+
+
+![IMG_20221011_1552062891.png](img/IMG_20221011_1552062891.png)
+
 ### 【XP模块】 虚拟定位
 
 可以模拟一个虚假的地理位置
@@ -501,6 +619,10 @@ X定位保护：[点击查看](https://nalankang.lanzouo.com/b00ut32sd)
 对话框取消beta版： [点击查看](https://nalankang.lanzouo.com/iX6Cvl4nzjc)
 
 虚拟定位：[点击查看](https://nalankang.lanzouo.com/b00v8fv7i)
+
+
+
+![aca24bc17f1092792882.png](img/aca24bc17f1092792882.png)
 
 ### 【XP模块】 翻译模块
 
@@ -516,7 +638,7 @@ Xp快译： [点击查看](https://nalankang.lanzouo.com/tp/ipnxCn6pb3i)
 
 
 
-![20220221084110Aicy799.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688642526-db7e3fde-daf3-4470-8ef6-177ee91df9df.png)
+![20220221084110Aicy799.png](img/20220221084110Aicy799.png)
 
 ### 【XP模块】 MIUI系统专用模块合集
 
@@ -604,9 +726,38 @@ AutoNFC：[点击查看](https://nalankang.lanzouo.com/b00vqs8wb)
 
 MIUI QOL(系统增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vu6xof)
 
+MIUI录屏进化：[点击查看](https://nalankang.lanzouo.com/b00vvd0de)
+
+小米不妙·享：[点击查看](https://nalankang.lanzouo.com/b00vz17di)
+
+MiTlite(墓碑模块)：[点击查看](https://nalankang.lanzouo.com/b00vzbpng)
+
+MIUI安装器进化：[点击查看](https://nalankang.lanzoum.com/b00w3euqb)
+
+Miller(MUI功耗优化模块)：[点击查看](https://nalankang.lanzouo.com/b00w3s25g)
+
+你这运营消息根本就全都是广告吧：[点击查看](https://nalankang.lanzoum.com/b00w65i3a)
+
+MIUI更新进化：[点击查看](https://nalankang.lanzoum.com/b00w6ze6j)
+
+WINI-悬浮通知模糊模块：[点击查看](https://nalankang.lanzoum.com/b00w8v9bc)
+
+5G开关：[点击查看](https://nalankang.lanzoum.com/b00w9p9bc)
+
+MIUI通知修复：[点击查看](https://nalankang.lanzoum.com/b00wcl3gf)
+
+BetterMiuiExpress(负一屏直接显示快递信息)：[点击查看](https://nalankang.lanzoum.com/b00w38glg)
+
+传送门增强：[点击查看](https://nalankang.lanzoum.com/b00wmgeqb)
+
+MIUI自由小窗X-MiuiFreeFormX：[点击查看](https://nalankang.lanzoum.com/b00x2h8ef)
+
+Cemiuiler-MIUI系统增强模块：[点击查看](https://nalankang.lanzoum.com/b00x2h8pg)
+StarVoyager(系统增强)：[点击查看](https://nalankang.lanzoum.com/b00x34bfc)
 
 
-![IMG_20220221_085858801.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688660960-5e8aec0f-d972-4c90-a18a-4c4625b9502e.png)
+
+![IMG_20220221_085858801.png](img/IMG_20220221_085858801.png)
 
 ### 【XP模块】 Flyme系统专用模块合集
 
@@ -620,7 +771,7 @@ flyme工具箱：[点击查看](https://nalankang.lanzouo.com/b00uyi65e)
 
 
 
-![IMG_20220422_1925241225.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1650627329960-aca65bfb-12c0-4fa2-9742-fafe2fb97319.png)
+![IMG_20220422_1925241225.png](img/IMG_20220422_1925241225.png)
 
 ### 【XP模块】 ColorOS系统专用模块合集
 
@@ -640,9 +791,13 @@ WooBox For ColorOS：[点击查看](https://nalankang.lanzouo.com/b00vkrz0j)
 
 ColorOS通知图标增强：[点击查看](https://nalankang.lanzouo.com/b00vdjeeh)
 
+LuckyTool：[点击查看](https://nalankang.lanzouo.com/b00vxpfyj)
+
+ColorOS6(系统增强模块)：[点击查看](https://nalankang.lanzoum.com/b00wmwf9g)
 
 
-![20220221091208Aicy804.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688696153-dd365348-3c5a-4e6b-8151-3868755589a8.png)
+
+![20220221091208Aicy804.png](img/20220221091208Aicy804.png)
 
 ### 【XP模块】 网易云音乐模块合集
 
@@ -660,7 +815,7 @@ UnblockMusic Pro： [点击查看](https://nalankang.lanzouo.com/b00u9dtwj)
 
 
 
-![IMG_20220221_113124805.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688713086-526de8e7-3535-43a8-bf66-4e4e2ad8e217.png)
+![IMG_20220221_113124805.png](img/IMG_20220221_113124805.png)
 
 ### 【XP模块】 微博净化模块
 
@@ -670,9 +825,11 @@ AdAway： [点击查看](https://nalankang.lanzouo.com/b00tsmbgh)
 
 微博助手：[点击查看](https://nalankang.lanzouo.com/b00ullbyd)
 
+这真轻享(微博轻享版/极速版去广告)：[点击查看](https://nalankang.lanzoum.com/b00wcl3nc)
 
 
-![20220221141156Aicy809828.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688766260-3642e12e-1087-4a32-a019-0457d2f06874.png)
+
+![20220221141156Aicy809828.png](img/20220221141156Aicy809828.png)
 
 ### 【XP模块】 百度贴吧净化模块
 
@@ -696,7 +853,7 @@ BankRX(工行建行)： [点击查看](https://nalankang.lanzouo.com/iQH4Nhpiuni
 
 
 
-![20220221142448Aicy812.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688782799-953972e0-5766-494b-ab04-c4fe68aea327.png)
+![20220221142448Aicy812.png](img/20220221142448Aicy812.png)
 
 ### 【XP模块】 哔哩哔哩增强模块
 
@@ -710,15 +867,25 @@ FuckBilibiliVote(去你妈b站视频弹窗)：[点击查看](https://nalankang.l
 
 不要竖屏：[点击查看](https://nalankang.lanzouo.com/b00vtzfja)
 
+哔哩漫游X：[点击查看](https://nalankang.lanzoum.com/b00wa2dib)
+
+b站会员画质：[点击查看](https://nalankang.lanzoum.com/b00wpxvhe)
 
 
-![img](https://cdn.nlark.com/yuque/0/2022/jpeg/28378617/1653780211920-61ed5321-f824-4c6b-9159-335049490f14.jpeg?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
+
+![IMG_20220529_0705171935.png](img/IMG_20220529_0705171935.png)
 
 番茄小说VIP破解模块
 
 番茄vip模块：[点击查看](https://nalankang.lanzouo.com/b00vpo0wd)
 
 番茄小说hookvip模块：[点击查看](https://nalankang.lanzouo.com/b00vpo0ub)
+
+番茄通杀：[点击查看](https://nalankang.lanzoum.com/b00wo5r9i)
+
+
+
+![S21011-144657422890.png](img/S21011-144657422890.png)
 
 ### 【XP模块】 运动修改模块
 
@@ -730,6 +897,7 @@ FuckBilibiliVote(去你妈b站视频弹窗)：[点击查看](https://nalankang.l
 
 运动模拟器： [点击查看](https://nalankang.lanzouo.com/iAVp7lridyd)
 
+
 ### 【XP模块】状态栏变色
 
 微聚旧版： [点击查看](https://nalankang.lanzouo.com/iXbImrfwr7i)
@@ -739,6 +907,7 @@ FuckBilibiliVote(去你妈b站视频弹窗)：[点击查看](https://nalankang.l
 PerfectColorBar： [点击查看](https://www.lanzoui.com/irKuHgt707e)
 
 自动沉浸式状态栏：[点击查看](https://nalankang.lanzouo.com/iWnM5stybvi)
+
 
 ### 【XP模块】 隐藏Root和xposed不被检测到
 
@@ -752,6 +921,18 @@ XposedHider(隐藏Xposed)：[点击查看](https://nalankang.lanzouo.com/b00v4pj
 
 SudoHide(隐藏Xposed)：[点击查看](https://nalankang.lanzouo.com/b00v4pjkf)
 
+
+### 【XP模块】过VPN检测
+
+NoVPNDetect：[点击查看](https://nalankang.lanzoum.com/b00wckerg)
+
+过VPN检测：[点击查看](https://nalankang.lanzoum.com/b00vsaxud)
+
+算法助手：[点击查看](https://nalankang.lanzoum.com/b00umtq4h)
+
+Dialbox：[点击查看](https://nalankang.lanzoum.com/b00wa5mkf)
+
+
 ### 【XP模块】 重力工具箱
 
 GravityBox\[安卓8\] ： [点击查看](https://nalankang.lanzouo.com/b00u9xezc)
@@ -761,6 +942,10 @@ GravityBox\[安卓9\] ： [点击查看](https://nalankang.lanzouo.com/b00u9xf7a
 GravityBox\[安卓10\] ： [点击查看](https://nalankang.lanzouo.com/b00u9xfdg)
 
 GravityBox\[安卓11\] ： [点击查看](https://nalankang.lanzouo.com/b00u9xffi)
+
+
+
+![IMG_20221011_1519312886.png](img/IMG_20221011_1519312886.png)
 
 ### 【XP模块】去广吿模块
 
@@ -784,11 +969,23 @@ AdBlocker： [点击查看](https://nalankang.lanzouo.com/b00tf5ive)
 
 推特去广告模块：[点击查看](https://nalankang.lanzouo.com/b00vauqdg)
 
+Twitter Ad Eater(推特广告吞噬者)：[点击查看](https://nalankang.lanzoum.com/b00wa9rze)
+
 FuckCoolapkR-酷安去广告模块：[点击查看](https://nalankang.lanzouo.com/b00vio87e)
 
+VideoAdKill(腾讯优酷爱奇艺虎牙去广告模块)：[点击查看](https://nalankang.lanzoum.com/b00wgwabc)
+
+ZuiYouHook最右去广告模块：[点击查看](https://nalankang.lanzoum.com/b00wl69ba)
+
+去你大爷的广告：[点击查看](https://nalankang.lanzoum.com/b00wnf7wf)
+
+FuckAD-去他妈的广告：[点击查看](https://nalankang.lanzoum.com/b00woi3gj)
+
+开屏小助手：[点击查看](https://nalankang.lanzoum.com/b00wwnzcf)
 
 
-![IMG_20220221_143749814.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688802737-2f5cc10f-ed7e-4c36-95e2-0eb6b542c8ae.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
+
+![IMG_20220221_143749814.png](img/IMG_20220221_143749814.png)
 
 ### 【XP模块】 皮皮虾快手模块合集
 
@@ -802,6 +999,12 @@ AdAway： [点击查看](https://nalankang.lanzouo.com/b00tsmbgh)
 
 要你命三千： [点击查看](https://nalankang.lanzouo.com/b00tw4jhc)
 
+皮皮搞笑助手：[点击查看](https://nalankang.lanzoum.com/b00w4s6lc)
+
+
+
+![S21011-150318612888.png](img/S21011-150318612888.png)
+
 ### 【XP模块】小红书模块
 
 AdAway： [点击查看](https://nalankang.lanzouo.com/b00tsmbgh)
@@ -811,6 +1014,10 @@ X小红书： [点击查看](https://nalankang.lanzouo.com/b00u9cabi)
 小红书+： [点击查看](https://nalankang.lanzouo.com/b00ucb8pc)
 
 红薯猪手：[点击查看](https://nalankang.lanzouo.com/b00vdhfxa)
+
+
+
+![IMG_20221011_1555412892.png](img/IMG_20221011_1555412892.png)
 
 ### 【XP模块】钉钉模块
 
@@ -822,6 +1029,12 @@ X小红书： [点击查看](https://nalankang.lanzouo.com/b00u9cabi)
 
 钉钉增强：[点击查看](https://nalankang.lanzouo.com/b00vs1a1c)
 
+锤锤：[点击查看](https://nalankang.lanzoum.com/b00w65hri)
+
+
+
+![IMG_20221011_1524592887.png](img/IMG_20221011_1524592887.png)
+
 ### 【XP模块】telegram电报模块
 
 TMoe(电报增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vudbyf)
@@ -829,6 +1042,21 @@ TMoe(电报增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vudby
 电报广告拦截器：[点击查看](https://nalankang.lanzouo.com/b00v0v12b)
 
 电报去广告模块：[点击查看](https://nalankang.lanzoui.com/b00v0v15e)
+
+TeleSpeed(提升电报下载速度)：[点击查看](https://nalankang.lanzoum.com/b00waav1a)
+
+Telegram Helper(电报增强模块)：[点击查看](https://nalankang.lanzoum.com/b00waaxxe)
+
+
+
+![IMG_20221016_0037052984.png](img/IMG_20221016_0037052984.png)
+
+### 【XP模块】YouTube油管模块
+
+YouTube AdAway：[点击查看](https://nalankang.lanzoum.com/b00w6v3tc)
+
+油管助手：[点击查看](https://nalankang.lanzouo.com/b00u8om6b)
+
 
 ### 【XP模块】其他模块合集
 
@@ -914,13 +1142,42 @@ Fuck云注入(禁止云注入弹窗)：[点击查看](https://nalankang.lanzouo.
 
 QDReadHook：(起点阅读增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vu7rof)
 
+Q音助手(QQ音乐净化)：[点击查看](https://nalankang.lanzoum.com/b00w6v3oh)
+
+下载重定向模块-(调用ADM下载器)：[点击查看](https://nalankang.lanzoum.com/b00whqfvc)
+
+不要锁区(解除区域限制)：[点击查看](https://nalankang.lanzoum.com/b00wwnzwf)
+
+
+
+![IMG_20221018_1629403004.png](img/IMG_20221018_1629403004.png)
+
 ### 【APP】搞机助手
+
+玩机必备软件
 
 搞机助手(情非得已)原创作者：[点击查看](https://nalankang.lanzouo.com/b00uks1sd)
 
 搞机重制版(快播内部工作人员)：[点击查看](https://nalankang.lanzouo.com/b00tugduj)
 
 搞机助手2(抱抱猫People11)：[点击查看](https://nalankang.lanzouo.com/b00uks28j)
+
+搞机客(情非得已)：[点击查看](https://nalankang.lanzoum.com/b00woxkmh)
+
+
+
+![IMG_20221018_1604323003.png](img/IMG_20221018_1604323003.png)
+
+### 【APP】SSH终端工具
+
+JuiceSSH：[点击查看](https://nalankang.lanzoum.com/b00w76gvi)
+
+ConnectBot：[点击查看](https://nalankang.lanzoum.com/b00w76gif)
+
+Primitive ftpd：[点击查看](https://nalankang.lanzoum.com/b00w76gre)
+
+SSH-Termius：[点击查看](https://nalankang.lanzoum.com/b00w76gwj)
+
 
 ### 【APP】第三方油管纯净无广吿
 
@@ -929,6 +1186,24 @@ Vanced：[点击查看](https://nalankang.lanzouo.com/b00ujce7i)
 𝐏𝐮𝐫𝐞𝐓𝐮𝐛𝐞𝐫：[点击查看](https://nalankang.lanzouo.com/b00usb4ba)
 
 LibreTube：[点击查看](https://nalankang.lanzouo.com/b00vsd3ta)
+
+YouTube_ReVanced：[点击查看](https://nalankang.lanzoum.com/b00vvp3hi)
+
+
+### 【APP】第三方𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦电报
+
+𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦魔法版(内置代理)：[点击查看](https://nalankang.lanzouo.com/b00v8earg)
+
+Nekogram X(内置代理)：[点击查看](https://nalankang.lanzoum.com/b00w5nh7a)
+
+Nagram(内置代理)：[点击查看](https://nalankang.lanzoum.com/b00w5nila)
+
+Nekogram(内置代理)：[点击查看](https://nalankang.lanzoum.com/b00w5nguh)
+
+GuGugram(需要梯子)：[点击查看](https://nalankang.lanzoum.com/b00w5nj2h)
+
+Telegraph(内置代理-功能超多)：[点击查看](https://nalankang.lanzoum.com/b00wgwa1c)
+
 
 ### 【APP】文件管理器
 
@@ -944,6 +1219,7 @@ RS文件管理器：[点击查看](https://nalankang.lanzouo.com/b00v3lsaj)
 
 SE文件管理器：[点击查看](https://nalankang.lanzouo.com/b00v55w4d)
 
+
 ### 【APP】终端模拟器
 
 Termux：[点击查看](https://nalankang.lanzouo.com/b00v67ype)
@@ -958,11 +1234,13 @@ Ansole：[点击查看](https://nalankang.lanzouo.com/b00v681pc)
 
 NeoTerm：[点击查看](https://nalankang.lanzouo.com/b00v681xa)
 
+
 ### 【APP】JAVA模拟器
 
 J2ME Loader：[点击查看](https://nalankang.lanzouo.com/b00vaursh)
 
 Retro2ME：[点击查看](https://nalankang.lanzouo.com/b00vaurhg)
+
 
 ### 【APP】加固app脱壳工具
 
@@ -978,11 +1256,13 @@ DDex脱壳(XP)：[点击查看](https://nalankang.lanzouo.com/b00vcvtla)
 
 DITOR-脱壳工具：[点击查看](https://nalankang.lanzouo.com/b00vdbu8j)
 
+
 ### 【APP】备份工具
 
 钛备份： [点击查看](https://nalankang.lanzouo.com/b00u85wmd)
 
 超级备份：[点击查看](https://nalankang.lanzouo.com/b00v82qxg)
+
 
 ### 【APP】在线影视播放软件
 
@@ -996,6 +1276,7 @@ DITOR-脱壳工具：[点击查看](https://nalankang.lanzouo.com/b00vdbu8j)
 
 美剧星球：[点击查看](https://nalankang.lanzouo.com/b00uoxh3i)
 
+
 ### 【APP】Apk编辑工具
 
 Apk编辑器：[点击查看](https://nalankang.lanzouo.com/b00u06q0d)
@@ -1008,11 +1289,13 @@ NP管理器：[点击查看](https://nalankang.lanzouo.com/b00u7565e)
 
 MT管理器：[点击查看](https://www.coolapk.com/apk/bin.mt.plus)
 
+
 ### 【APP】应用冻结
 
 雹：[点击查看](https://nalankang.lanzouo.com/b00vjgpxa)
 
 冰箱：[点击查看](https://nalankang.lanzouo.com/b00vjgpsf)
+
 
 ### 【APP】下载工具
 
@@ -1050,6 +1333,11 @@ tTorrent种子下载器：[点击查看](https://nalankang.lanzouo.com/b00uz3ikh
 
 游隼下载器：[点击查看](https://nalankang.lanzoui.com/b00vfsk6b)
 
+下载工具箱：[点击查看](https://nalankang.lanzouo.com/b00w3f0gh)
+
+悟空下载：[点击查看](https://nalankang.lanzoum.com/b00wm50id)
+
+
 ### 【APP】HiShoot2i(带壳截图)
 
 HiShoot2i汉化版：[点击查看](https://nalankang.lanzouo.com/ihKhIu8yelc)
@@ -1058,13 +1346,17 @@ HiShoot2i汉化版：[点击查看](https://nalankang.lanzouo.com/ihKhIu8yelc)
 
 其他模板(百度云)： [点击查看](https://pan.baidu.com/s/1ZmToxkG__uLjFFZfep8eeg)提取码:h368
 
+模板和预览图：[点击查看](https://flowery-espadrille-695.notion.site/c58a90b54e7c487286906e604e1bb0dd)
+
 一些模板预览图：[点击查看](https://www.coolapk.com/feed/29231338?shareKey=ZDg5NGQ3NmVhZjY3NjExOTNiOTQ~&shareUid=462071&shareFrom=com.coolapk.market_11.2.3)
+
 
 ### 【APP】短信伪造
 
 一键添加收发短信到本地,可以任意设置收到任何人给你发来的短信，效果跟正常短信一模一样。应用仅供娱乐！
 
 伪造短信消息：[点击查看](https://nalankang.lanzouo.com/iAmMrsm3l1a)
+
 
 ### 【APP】抓包工具
 
@@ -1076,6 +1368,7 @@ Packet Capture(免root抓包)：[点击查看](https://nalankang.lanzouo.com/b00
 
 抓包精灵：[点击查看](https://nalankang.lanzouo.com/b00vb69jc)
 
+
 ### 【APP】MacroDroid智能触发器
 
 一款任务自动化配置工具，只有你想不到，没有他做不到的，功能强大，类似Tasker和xposed edge
@@ -1085,6 +1378,7 @@ MacroDroid：[点击查看](https://nalankang.lanzouo.com/b00usijgh)
 辅助模块：[点击查看](https://nalankang.lanzouo.com/b00usiqle)
 
 自动发邮件插件：[点击查看](https://nalankang.lanzouo.com/b00utusqj)
+
 
 ### 【YX】怀旧小游戏
 
@@ -1096,7 +1390,7 @@ MacroDroid：[点击查看](https://nalankang.lanzouo.com/b00usijgh)
 
 
 
-![IMG_20220220_152839785821.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645688833808-f9b29d99-7d90-429b-b410-92ca1814adc8.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
+![IMG_20220220_152839785821.png](img/IMG_20220220_152839785821.png)
 
 ### 【APP】应用分享
 
@@ -1150,7 +1444,7 @@ Aptoide开源应用商店：[点击查看](https://nalankang.lanzouo.com/b00uudd
 
 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦(电报魔法版自带踢子)：[点击查看](https://nalankang.lanzouo.com/b00v8earg)
 
-NekogramX(第三方电报自带踢子)：[点击查看](https://nalankang.lanzoum.com/b00vcrn1a)
+NekogramX(第三方电报自带踢子)：[点击查看](https://nalankang.lanzouo.com/b00vcrn1a)
 
 王者特权获取：[点击查看](https://nalankang.lanzouo.com/iDWRSs44eni)
 
@@ -1190,7 +1484,7 @@ MIUI下载器：[点击查看](https://nalankang.lanzouo.com/b00v7ef5i)
 
 两仪(安卓容器)：[点击查看](https://cloud.189.cn/t/7BvEJ32qINNr)
 
-𝐓𝐢𝐤𝐓𝐨𝐤(抖音国际版)：[点击查看](https://nalankang.lanzoum.com/b00vcpf8h)
+𝐓𝐢𝐤𝐓𝐨𝐤(抖音国际版)：[点击查看](https://nalankang.lanzouo.com/b00vcpf8h)
 
 风车动漫魔改版：[点击查看](https://nalankang.lanzouo.com/b00v9ce9g)
 
@@ -1212,6 +1506,9 @@ AccubatteryPro-精准电量：[点击查看](https://nalankang.lanzouo.com/b00vd
 
 Momo(检测工具)：[点击查看](https://nalankang.lanzouo.com/b00vno8mj)
 
+宇宙工具箱：[点击查看](https://nalankang.lanzouo.com/b00w27qfi)
+
+
 ### 【WX】微X主题
 
 微信主题美化，主题功能需要打赏才能开通
@@ -1223,6 +1520,7 @@ Momo(检测工具)：[点击查看](https://nalankang.lanzouo.com/b00vno8mj)
 微X主题〈漫〉： [点击查看](https://www.coolapk.com/feed/24081843?shareKey=MTMwNTdjMjI0ZmQ5NjAwMWFkYzA~&shareUid=462071&shareFrom=com.coolapk.market_11.0-rc2)
 
 微X主题〈无题〉： [点击查看](https://www.coolapk.com/feed/22527630?shareKey=NTJiZTYyN2IzZmIwNjAwMWFlYTY~&shareUid=462071&shareFrom=com.coolapk.market_11.0-rc2)
+
 
 ### 【WJ】玩机技巧
 
@@ -1250,7 +1548,7 @@ SELinux未处于严格模式的解决方法：[点击查看](https://www.coolapk
 
 
 
-![2022_0114_124720-1820.png](https://cdn.nlark.com/yuque/0/2022/png/26257373/1645692639120-3984d35a-e077-4954-a112-5eaa3b5a4cba.png?x-oss-process=image%2Fresize%2Cw_750%2Climit_0)
+![2022_0114_124720-1820.png](img/2022_0114_124720-1820.png)
 
 ### 【PC】端搞机工具合集
 
